@@ -1,0 +1,80 @@
+/*section 1*/
+
+
+
+.section1{
+	
+	margin: 0 auto;
+		/*position: fixed;*/
+}
+#homepanel{
+	
+}
+
+.section2{
+	width: 50%;
+
+}
+.homee{
+	margin: 20px 0 0 20px;
+}
+
+.homeep{
+	margin: 0 0 0 20px;
+	display: inline-flex;
+	
+}
+
+.homeep2{
+	margin: 0 0 0 107px;
+	
+}
+.item{
+	display: flex;
+	padding: 5%;
+	flex-direction: column;
+}
+.dp{
+	width: 25%;
+	border-radius: 100%;
+}
+.sect{
+	border: 1px solid black;
+		}
+		
+	.stn{   
+	padding: 2% 8%;
+	line-height: 2.5;
+}
+/*.tweet1{
+margin-right: 300px; 
+}*/
+.tweetbutton{
+	border-radius: 30px;
+	text-align: center;
+	width: 200px;
+	margin: 2% 7% 0 7%;
+}
+
+.fa-twitter{
+	color: skyblue;
+	
+
+	
+}
+
+.dpai{
+	margin-top:40px ;
+}
+
+.sp1{
+	margin-left: 20px;
+}
+#homepanel{
+
+}
+
+ .s1-dp{
+	width: 6%;
+	border-radius: 100%;
+}
